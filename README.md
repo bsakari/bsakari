@@ -8,7 +8,7 @@ I am an experienced production developer, a team player, result oriented and abo
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [sakaribenjamin@gmail.com](mailto:sakaribenjamin@gmail.com)
-* 🤝  I'm open to collaborating on Kotlin, Java, Javascript, Php(Laravel) and or Android
+* 🤝  I'm open to collaborating on Python, Kotlin, Java, Javascript, Php(Laravel) and or Android
 
 ### Skills
 
