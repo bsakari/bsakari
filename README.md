@@ -12,7 +12,7 @@ My focus goes beyond writing code. I enjoy solving complex engineering problems,
 
 ## 👨‍💻 About Me
 
-I'm a software engineer with 7+ years of experience building and maintaining software solutions across different technology domains.
+I'm a software engineer with 9+ years of experience building and maintaining software solutions across different technology domains.
 
 My engineering experience spans backend development, cloud architecture, API design, distributed systems, database optimisation, mobile development, and infrastructure automation.
 
